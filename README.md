@@ -1,2 +1,2 @@
-# cardapio-jardim-c.io
+# cardapio-jardim-c
 Cardápio do Jardim C
